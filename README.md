@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AYadav2002
-- 👀 I’m interested in AI and Apps
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Projects including AI and social media apps
+- 👀 I’m interested in UI/UX and software programming 
+- 🌱 I’m currently learning basic software development
+- 💞️ I’m looking to collaborate on Projects including UI/UX and C/C++, JAVA language
 - 📫 How to reach me tag me down on github
 
 <!---
