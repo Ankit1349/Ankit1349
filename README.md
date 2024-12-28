@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit1349" alt="ankit1349" /></a> </p>
 
-- 🔭 I’m currently working on **IYMS**
+- 🔭 Latest Project Under development is **Stat presenter** a comprehensive website giving ability to developers to showcase all their coding platform status at a single website, with ability to have a code snippet which they can add to their github or portfolio website showcasing all their stats.
 
-- 🌱 I’m currently learning **AI/ML and sharpening FrontEnd and Backend skills.**
+- 🌱 ALways Improving and developing my skills in **AI/ML + Fullstack Development**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
