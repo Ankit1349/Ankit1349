@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit1349" alt="ankit1349" /></a> </p>
 
-- 🔭 Latest Project Under development is **Stat presenter** a comprehensive website giving ability to developers to showcase all their coding platform status at a single website, with ability to have a code snippet which they can add to their github or portfolio website showcasing all their stats.
-
-- 🌱 ALways Improving and developing my skills in **AI/ML + Fullstack Development**.
+- 🌱 ALways Improving and developing my skills in **AI/ML + Software Development**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-yadav22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="https://www.linkedin.com/in/ankit-yadav22/" height="40" width="52" alt = "Linkedin Logo"/></a>
+<a href="https://www.linkedin.com/in/ankit-yadav22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="https://www.linkedin.com/in/ankit-yadav22/" height="40" width="52" alt = "Linkedin Logo"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
